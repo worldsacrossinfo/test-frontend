@@ -1,4 +1,4 @@
-# Frontend Tutor Management Test
+# WorldsAcross Frontend Test
 
 ## Descripción
 Esta es una prueba técnica para evaluar tus habilidades en Angular e Ionic. El objetivo es crear una aplicación frontend que consuma una API proporcionada.
@@ -7,17 +7,6 @@ Esta es una prueba técnica para evaluar tus habilidades en Angular e Ionic. El 
 - Construir una aplicación en Angular e Ionic.
 - Consumir datos desde la API mockeada proporcionada.
 - Implementar filtros dinámicos y diseño responsivo.
-
-## Configuración Inicial
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/<tu-usuario>/frontend-tutor-management-test.git
-   cd frontend-tutor-management-test
-   ```
-2. Instala las dependencias de Angular e Ionic:
-   ```bash
-   npm install
-   ```
 
 ## Endpoints de la API
 Base URL: `https://api.mockapi.com/api`
