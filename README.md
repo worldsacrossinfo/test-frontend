@@ -9,11 +9,9 @@ Esta es una prueba técnica para evaluar tus habilidades en Angular e Ionic. El 
 - Implementar filtros dinámicos y diseño responsivo.
 
 ## Endpoints de la API
-Base URL: `https://api.mockapi.com/api`
+Base URL: `https://test.worldsacross.com/api`
 
-### Headers
-Todos los endpoints requieren el siguiente header:
-- `x-api-key: fa8bd36ecb1d4e43bc0952504a138576`
+
 
 ### Endpoints Disponibles
 - `GET /tutors`: Lista de tutores.
