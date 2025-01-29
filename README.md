@@ -1,5 +1,7 @@
 # WorldsAcross Frontend Test
 
+# Prueba Técnica de Angular e Ionic
+
 ## Descripción
 Esta es una prueba técnica para evaluar tus habilidades en Angular e Ionic. El objetivo es crear una aplicación frontend que consuma una API proporcionada.
 
@@ -10,8 +12,6 @@ Esta es una prueba técnica para evaluar tus habilidades en Angular e Ionic. El 
 
 ## Endpoints de la API
 Base URL: `https://test.worldsacross.com/api`
-
-
 
 ### Endpoints Disponibles
 - `GET /tutors`: Lista de tutores.
@@ -45,7 +45,26 @@ Base URL: `https://test.worldsacross.com/api`
 - Agregar mensajes de error para manejo de errores al consumir la API.
 - Diseño avanzado para mejorar la experiencia del usuario.
 
-## Entrega
-1. Sube tu proyecto a un repositorio público o privado (y comparte acceso).
-2. Incluye un archivo `README.md` en tu repositorio con las instrucciones necesarias para ejecutar tu aplicación.
-3. Envía el enlace del repositorio.
+### Requisitos Previos
+- Node.js y npm instalados en tu sistema.
+- Angular CLI e Ionic CLI instalados globalmente.
+
+### Pasos para Ejecutar la Aplicación
+1. Clona el repositorio:
+      bash
+   git clone <URL_DEL_REPOSITORIO>
+2. Navega al directorio del proyecto:
+         bash
+cd <NOMBRE_DEL_PROYECTO>
+
+3. Instala las dependencias:
+         bash
+npm install
+
+4. Ejecuta la aplicación:
+         bash
+ionic serve
+Notas Adicionales
+Asegúrate de que el servidor de la API esté en funcionamiento antes de ejecutar la aplicación.
+
+Puedes acceder a la aplicación en tu navegador en http://localhost:8100.
